@@ -1,0 +1,5 @@
+1) Inpect the all dataset don't do anything just understand the data.
+        note down the which you think this is important data.
+        note down which is unclean and wrong formate etc.
+
+2)
