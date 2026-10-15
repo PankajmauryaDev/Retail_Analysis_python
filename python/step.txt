@@ -2,4 +2,23 @@
         note down the which you think this is important data.
         note down which is unclean and wrong formate etc.
 
-2)
+2)Data Quality assesment.
+        checking data quality.
+        check dublicate foreign key etc.
+
+3) Data Cleaning.
+        change formate if their is need.
+        removing dublicate.
+        handiling missing values.
+        etc.
+
+4) Data Consistancy check.(in which we data cleaning do in string col)
+        strip(removing unwanted spaces)
+        title(upper-case , lower-case) etc.
+        # alwage very your all str col.
+
+5) combining table for better analysis.
+        we merge all 3 table with the help of joining.
+
+6) Data Analysis
+        
