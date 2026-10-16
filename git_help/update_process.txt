@@ -1,0 +1,18 @@
+Step 1: Project folder mein jao
+cd "your_project_folder_path"
+
+
+Step 2: Changes check karo
+git status
+
+
+Step 3: Files stage karo
+git add .
+
+
+Step 4: Commit karo
+git commit -m "Update analysis"
+
+
+Step 5: GitHub par push karo
+git push origin main
